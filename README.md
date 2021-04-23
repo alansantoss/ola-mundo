@@ -1,2 +1,3 @@
-# ola mundo
- primeiro repositorio
+# olá, mundo!
+curso em video
+primeiro repositorio de muitos
